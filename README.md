@@ -26,6 +26,7 @@ The [docs](https://archi-physics.github.io/archi/) are organized as follows:
 - [Install](https://archi-physics.github.io/archi/install/) — system requirements and environment preparation.
 - [Quickstart](https://archi-physics.github.io/archi/quickstart/) — after installation, learn how to deploy your first Archi instance.
 - [User Guide](https://archi-physics.github.io/archi/user_guide/) — framework concepts for users and administrators.
+- [RAG Architecture](https://archi-physics.github.io/archi/rag_architecture/) — detailed information about retrieval-augmented generation implementation, vector stores, retrievers, and evaluation.
 - [Advanced Setup & Deployment](https://archi-physics.github.io/archi/advanced_setup_deploy/) — configuring Archi for GPU use, custom models, and advanced workflows.
 - [API Reference](https://archi-physics.github.io/archi/api_reference/) — programmatic interfaces and integration points.
 - [Developer Guide](https://archi-physics.github.io/archi/developer_guide/) — codebase layout, contribution workflow, and extension patterns.
